@@ -1,0 +1,6 @@
+{
+  "project_id" : "hg-remote-filelog",
+  "conduit_uri" : "https://phabricator.fb.com/api/",
+  "copyright_holder" : "Facebook",
+  "arc.land.onto.default" : "@"
+}
